@@ -1,22 +1,5 @@
 # final_lab_web
 
-## Language Learning App
-
-A simple CRUD application built with Node.js, Express, and MySQL to manage learners and the languages they are learning.
-
-This project is ideal for practice or as a starter template for building language learning management tools.
-
-## Features
-
-Add a new learner with the language they are learning.
-
-List all learners.
-
-Get learner details by ID.
-
-Update learner information.
-
-Delete a learner.
 
 ## Prerequisites
 
