@@ -3,7 +3,7 @@
 
 ## Prerequisites
 
-Node.js (v18+ recommended)
+Node.js
 
 MySQL installed and running
 
