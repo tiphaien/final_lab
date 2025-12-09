@@ -52,14 +52,3 @@ DB_NAME=language_learning
 Start the server
 
 npm start
-
-
-Server will run at http://localhost:3000
-
-## API Routes
-Route	Method	Body / Description
-/add	POST	{ "name": "Alice", "language": "French" }
-/learners	GET	Get all learners
-/learner/:id	GET	Get learner details by ID
-/update/:id	PUT	{ "name": "Alice Updated", "language": "Spanish" }
-/delete/:id	DELETE	Delete learner by ID
